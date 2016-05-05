@@ -20,3 +20,8 @@
 ## Running Tests
 
 `<any modern browser>` SpecRunner.html
+
+## Authors
+
+- Oleksii Fedorov
+- Alex Fengler
